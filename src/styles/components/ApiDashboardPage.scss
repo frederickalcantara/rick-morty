@@ -1,0 +1,9 @@
+.box-layout {
+	background: url('./../img/rick-morty.jpg');
+	background-size: cover;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+	width: 100vw;
+}
